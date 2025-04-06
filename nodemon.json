@@ -1,0 +1,5 @@
+{
+    "watch": ["resume.json"],
+    "ext": "json",
+    "exec": "resumed -t jsonresume-theme-even -o index.html resume.json"
+  }

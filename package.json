@@ -1,0 +1,34 @@
+{
+  "name": "@eskat0n/resume",
+  "version": "1.0.0",
+  "description": "This is the resume of Timur Rakhmatillaev.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"nodemon\" \"serve -l 3000 -s .\"",
+    "build": "resumed -t jsonresume-theme-even -o index.html resume.json",
+    "serve": "serve -l 3000 -s .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eskat0n/resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Timur Rakhmatillaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eskat0n/resume/issues"
+  },
+  "homepage": "https://github.com/Eskat0n/resume#readme",
+  "dependencies": {
+    "jsonresume-theme-even": "^0.23.0",
+    "resumed": "^4.1.0"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "nodemon": "^3.1.9",
+    "serve": "^14.2.4"
+  }
+}

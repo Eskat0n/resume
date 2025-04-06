@@ -1,0 +1,276 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "theme": "even",
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  },
+  "basics": {
+    "name": "Timur Rakhmatillaev",
+    "label": "Software Engineer",
+    "image": "https://avatars.githubusercontent.com/u/748739?v=4",
+    "email": "muyou.prj@gmail.com",
+    "url": "https://eskat0n.dev",
+    "summary": "I'm a full-stack software engineer with over 10 years of experience developing a wide range of IT products.\n\nI have a proven track record of building web and mobile applications from the ground up, including designing architecture and managing deployment. Skilled at working in fast-paced environments and adapting to emerging technologies, I have a strong interest in integrating AI/ML into software development.",
+    "location": {
+      "city": "Nagareyama",
+      "countryCode": "JP"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "eskat0n",
+        "url": "https://github.com/eskat0n"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Genius Inc.",
+      "description": "Visual novels for mobile",
+      "location": "Tokyo, Japan",
+      "position": "Lead Software Engineer",
+      "url": "https://gen-ius.com",
+      "startDate": "2020-06-01",
+      "summary": "",
+      "highlights": [
+        "Added AI features to existing game applications to provide players with chat-like conversations with game characters.",
+        "Architecture and development of web application for optimizing game assets and validating resources consistency.",
+        "Cloud infrastructure governance and provision using IaC approach with AWS CDK.",
+        "Developed automated distributed game release pipeline with multiple integrations with 3rd party services.",
+        "Data engineering and analytics using cloud-native ETL toolchain."
+      ]
+    },
+    {
+      "name": "Genius Inc.",
+      "description": "Visual novels for mobile",
+      "location": "Tokyo, Japan",
+      "position": "Senior Software Engineer",
+      "url": "https://gen-ius.com",
+      "startDate": "2018-06-01",
+      "endDate": "2020-06-01",
+      "summary": "",
+      "highlights": [
+        "Developed Otomania, Anibabe! and Yaoist game applications for iOS from the ground up including backend and frontend.",
+        "Optimized AWS resources usage and provision, which resulted in 60% savings for company without any negative impact of QoS for end users.",
+        "Took ownership over legacy codebase for game backend and was able to successfully maintain and further improve the service."
+      ]
+    },
+    {
+      "name": "Artlogics",
+      "description": "IT solutions for logistics",
+      "location": "Moscow, Russia",
+      "position": "Senior Software Developer",
+      "url": "https://artlogic-sk.ru",
+      "startDate": "2016-04",
+      "endDate": "2018-05",
+      "summary": "",
+      "highlights": [
+        "Inspired migration from documenting projects using lots of Google Docs files to team-shared Confluence with strict and comprehensive structure.",
+        "Developed i18n subsystem for legacy project's both server side BL and UI with dynamic loading of translation files.",
+        "Created basic architecture boilerplate for unifying of two new projects development.",
+        "Implemented structural logging using Serilog across all applications and configured Graylog for statistics collection.",
+        "Configured multiple monitoring services using Slack channels as aggregative notifications feed for particular project.",
+        "Switched new features development to git flow.",
+        "Optimized server infrastructure in order to reduce company expenses."
+      ]
+    },
+    {
+      "name": "NetEagles",
+      "description": "IT outsourcing services",
+      "location": "Chelyabinsk, Russia",
+      "position": "Lead Software Developer",
+      "startDate": "2014-09",
+      "endDate": "2016-03",
+      "summary": "",
+      "highlights": [
+        "System architecture design and development of web-based document indexing and searching solution.",
+        "Supported agile development with iteration planning, retorospectives and daily standups.",
+        "Communicated with stakeholders to define business requirements and plan the development roadmap."
+      ]
+    },
+    {
+      "name": "Byndyusoft",
+      "description": "IT outsourcing services",
+      "location": "Chelyabinsk, Russia",
+      "position": "Lead Software Developer",
+      "url": "https://byndyusoft.com",
+      "startDate": "2012-08",
+      "endDate": "2014-08",
+      "summary": "",
+      "highlights": [
+        "Took ownership over the legacy project and performed search engine migration from MS SQL Server to Sphinx, while improving its accuracy and performance.",
+        "Developed multiple web-based document workflow automation systems.",
+        "Supported agile development with iteration planning, retorospectives and daily standups.",
+        "Communicated with stakeholders to define business requirements and plan the development roadmap."
+      ]
+    },
+    {
+      "name": "Done Right Ltd",
+      "description": "IT outsourcing services",
+      "location": "Chelyabinsk, Russia",
+      "position": "Software Developer",
+      "startDate": "2012-03",
+      "endDate": "2012-06",
+      "summary": "",
+      "highlights": [
+        "Implemented search capabilities for social platform using Apache Solr."
+      ]
+    },
+    {
+      "name": "IndyCode",
+      "description": "Business automation solutions",
+      "location": "Chelyabinsk, Russia",
+      "position": "Software Developer",
+      "startDate": "2011-07",
+      "endDate": "2012-03",
+      "summary": "",
+      "highlights": [
+        "Developed browser-based workflow editor using RaphaelJS and jQuery.",
+        "Played key role in adoption of automated acceptance tests using Selenium and Gherkin.",
+        "Developed collective blog CMS system."
+      ]
+    },
+    {
+      "name": "IndyCode",
+      "description": "Business automation solutions",
+      "location": "Chelyabinsk, Russia",
+      "position": "Junior Software Developer",
+      "startDate": "2010-09",
+      "endDate": "2011-07",
+      "summary": "",
+      "highlights": [
+        "Worked on web-based document workflow automation system.",
+        "Developed new features according to the Extreme Programming approach (TDD, pair programming etc.)."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "South Ural State University",
+      "url": "https://www.susu.ru/en",
+      "area": "Information Technology",
+      "studyType": "Specialist",
+      "startDate": "2006-09-01",
+      "endDate": "2011-07-01"
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Backend",
+      "keywords": [
+        "C#/.NET",
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "Express",
+        "Fastify"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Tailwind",
+        "Vite",
+        "Node.js",
+        "Bun"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "Docker",
+        "GitHub Actions",
+        "AWS CDK",
+        "Unity Cloud Build",
+        "Sentry"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "DynamoDB"
+      ]
+    },
+    {
+      "name": "Cloud Data Engineering",
+      "keywords": [
+        "AWS Glue",
+        "Amazon Athena",
+        "Amazon Redshift",
+        "Amazon QuickSight"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "REST",
+        "GraphQL",
+        "Serverless",
+        "Microservices",
+        "CQRS",
+        "Event Sourcing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Business"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Basic"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Japanese Pop Culture",
+      "keywords": [
+        "Anime",
+        "Manga",
+        "VTubers"
+      ]
+    },
+    {
+      "name": "Gaming",
+      "keywords": [
+        "Anime gacha",
+        "World of Tanks",
+        "Newerwinter Nights"
+      ]
+    },
+    {
+      "name": "Urban exploration",
+      "keywords": [
+        "Walking",
+        "Plants identification"
+      ]
+    },
+    {
+      "name": "Generative AI",
+      "keywords": [
+        "Stable Diffusion",
+        "Local LLMs"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": []
+}
