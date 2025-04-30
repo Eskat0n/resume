@@ -12,7 +12,7 @@
     "image": "https://avatars.githubusercontent.com/u/748739?v=4",
     "email": "muyou.prj@gmail.com",
     "url": "https://eskat0n.dev",
-    "summary": "I'm a full-stack software engineer with over 10 years of experience developing a wide range of IT products.\n\nI have a proven track record of building web and mobile applications from the ground up, including designing architecture and managing deployment. Skilled at working in fast-paced environments and adapting to emerging technologies, I have a strong interest in integrating AI/ML into software development.",
+    "summary": "I'm a full-stack software engineer with 14 years of experience developing a wide range of IT products.\n\nI have a proven track record of building web and mobile applications from the ground up, including designing architecture and managing deployment. Skilled at working in fast-paced environments and adapting to emerging technologies, I have a strong interest in integrating AI/ML into software development.",
     "location": {
       "city": "Nagareyama",
       "countryCode": "JP"
@@ -30,16 +30,18 @@
       "name": "Genius Inc.",
       "description": "Visual novels for mobile",
       "location": "Tokyo, Japan",
-      "position": "Lead Software Engineer",
+      "position": "Senior Software Engineer",
       "url": "https://gen-ius.com",
       "startDate": "2020-06-01",
       "summary": "",
       "highlights": [
         "Added AI features to existing game applications to provide players with chat-like conversations with game characters.",
-        "Architecture and development of web application for optimizing game assets and validating resources consistency.",
+        "Architecture and development of web-based system for optimizing game assets and validating resources consistency.",
+        "AI-driven system for searching game assets using vision models, embeddings and vector database.",
         "Cloud infrastructure governance and provision using IaC approach with AWS CDK.",
         "Developed automated distributed game release pipeline with multiple integrations with 3rd party services.",
-        "Data engineering and analytics using cloud-native ETL toolchain."
+        "Data engineering and analytics using cloud-native ETL toolchain.",
+        "IT infrastructure cost management and optimization."
       ]
     },
     {
@@ -54,7 +56,10 @@
       "highlights": [
         "Developed Otomania, Anibabe! and Yaoist game applications for iOS from the ground up including backend and frontend.",
         "Optimized AWS resources usage and provision, which resulted in 60% savings for company without any negative impact of QoS for end users.",
-        "Took ownership over legacy codebase for game backend and was able to successfully maintain and further improve the service."
+        "Took ownership over legacy codebase for game backend and was able to successfully maintain and further improve the service.",
+        "Setup toolchain for Agile development process: issue tracker, knowledge base, ChatOps.",
+        "Introduced and implemented CI/CD process for web and mobile applications using GitHub Actions and Unity Cloud Build.",
+        "Participated in the development of a novel VR game."
       ]
     },
     {

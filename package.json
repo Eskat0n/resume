@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "concurrently \"nodemon\" \"serve -l 3000 -s .\"",
     "build": "resumed -t jsonresume-theme-even -o index.html resume.json",
-    "serve": "serve -l 3000 -s .",
+    "serve": "serve -l 3000 -s build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
